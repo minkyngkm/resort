@@ -274,7 +274,6 @@ h6 {
 
 .featured-rooms {
   padding: 5rem 0;
-  text-align: center;
 }
 .featured-rooms-center {
   width: 80vw;
@@ -463,6 +462,7 @@ h6 {
 /*  rooms fitler*/
 .filter-container {
   padding: 5rem 0;
+  text-align: center;
 }
 .filter-form {
   width: 60vw;
